@@ -1,0 +1,27 @@
+/* External CSS for Menu Table Styling */
+
+/* Add a background color and border to the menu table */
+.menu-table {
+    background-color: #f8f9fa;
+    border: 2px solid #343a40;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* Change the heading colors */
+.menu-table th {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Style links to make them stand out */
+.menu-table a {
+    color: #28a745;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu-table a:hover {
+    text-decoration: underline;
+    color: #155724;
+}
